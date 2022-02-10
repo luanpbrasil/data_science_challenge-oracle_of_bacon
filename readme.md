@@ -2,9 +2,11 @@
 
 ## 💻 <b>Running the application</b>
 
-To run the application, just run 
+To run the application, run 
 ```
+git clone https://github.com/luanpbrasil/data_science_challenge-oracle_of_bacon.git
 pip3 install streamlit
+cd data_science_challenge-oracle_of_bacon/
 streamlit run app/app.py
 ```
 in your terminal.
