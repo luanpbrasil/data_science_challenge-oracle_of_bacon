@@ -1,9 +1,10 @@
 # 🥓 The Oracle of Bacon T10 Challenge
 
-## <b>Running the application</b>
+## 💻 <b>Running the application</b>
 
 To run the application, just run 
 ```
+pip3 install streamlit
 streamlit run app/app.py
 ```
 in your terminal.
