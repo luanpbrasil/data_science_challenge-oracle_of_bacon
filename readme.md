@@ -2,7 +2,11 @@
 
 ## <b>Running the application</b>
 
-To run the application, just run '''streamlit run app/app.py''' in your terminal.
+To run the application, just run 
+```
+streamlit run app/app.py
+```
+in your terminal.
 
 ## 💭 <b>Context</b>
 [The Oracle of Bacon](https://oracleofbacon.org/help.php) is a web game where the objective of the game is to start with any actor or actress who has been in a movie and connect them to Kevin Bacon in the smallest number of links possible. Two people are linked if they've been in a movie together.
