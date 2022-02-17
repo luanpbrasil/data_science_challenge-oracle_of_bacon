@@ -1,4 +1,4 @@
-# 🥓 The Oracle of Bacon T10 Challenge
+# 🥓 The Oracle of Bacon Challenge
 
 ## 💻 <b>Running the application</b>
 
@@ -27,8 +27,4 @@ To help you decide a MVP for your live coding session, here's an **example**:
 ## 📁 <b>Data</b>
 The data is from the [IMDB](https://imdb-api.com/) website, containing information about movies and cast.
 
-## 🔍 <b>Evaluation</b>
-The evaluation will be 90% based on the live coding session in which we will evaluate best practices in both software development and data science spectra.
-
-Regardless of that we want you to feel free to work how you normally would in a day-to-day scenario, don't worry **WE DO NOT EXPECT YOU TO DELIVER EVERYTHING** in the live coding session. Keeping in mind "quality over quantity" is something we at T10 praise and follow.
 
